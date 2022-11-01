@@ -266,6 +266,7 @@ a {
 .logo {
     width: 50%;
     margin: 0;
+    max-height: 100px;
     }
 
 header {
@@ -298,7 +299,7 @@ header {
     .precio-producto {
         
         display: block;
-        height: 10vh;
+        height: 100px;
     }
     h6 {
         display: block;
