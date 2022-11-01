@@ -1,0 +1,70 @@
+/*form de registro 
+.body-registro {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}*/
+
+form {
+    border: 2px solid #666;
+    border-radius: 10px;
+    width: 350px;
+    margin: 5% auto;
+    margin-top:160px;
+    
+
+}
+form div {
+    display: block;
+    text-align:justify;
+    margin-top: 20px;
+
+}
+form div div {
+    display: inline-block;
+    margin:0px;
+}
+
+form input {
+    display: block;
+}
+
+form * {
+    margin: 5px;
+}
+
+.form-login * {
+    margin-left: 10px;
+
+    padding:3px;
+}
+
+.form-login label {
+    margin-top: 10px;
+
+}
+.nombre, .apellido {
+    display: inline-block;
+}
+.form-block {
+    display: block;
+}
+
+.intereses input {
+    margin-left: 10px;
+    display: inline-block;
+}
+
+.form-button, .form-button a {
+    color: white;
+    background-color: #ebebeb;
+    border-radius: 10%;
+    text-align: center;
+    transition: all 450ms;
+}
+
+.form-button:hover, .form-button a:hover {
+    color: white;
+    background-color: #0022AA ;
+}
