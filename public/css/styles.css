@@ -124,6 +124,10 @@ footer {
     padding-bottom: 5px;
 }
 
+footer ul li {
+    padding: auto;
+}
+
 
 .article-producto {
     background-color: white;
@@ -171,6 +175,7 @@ footer i {
 footer ul {
    align-self: center;
    margin: auto;
+   padding: 0px;
 }
 
 .compra-en-cuotas {
